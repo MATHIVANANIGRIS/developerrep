@@ -2,4 +2,3 @@ this is my thirdfile
 my name is igris filei
 
 today weather is rainy
-git stash
