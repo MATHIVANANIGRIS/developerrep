@@ -2,3 +2,6 @@ this is my thirdfile
 my name is igris filei
 
 today weather is rainy
+
+this my file3.txt file
+git stash
